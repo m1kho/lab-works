@@ -12,7 +12,7 @@ public class ExampleTable
         students[1] = ("Johnson", "Alice", "D");
 
         Console.WriteLine($"Студент за індексом 0: {students[0]}");
-        Console.WriteLine($"Студент за індексом 1: {students[1]}");
+        Console.WriteLine($"Студент за індексом 1: {students[1]}"); // small comment
         Console.WriteLine($"Студент за індексом 2: {students[2]}");
         
         Console.WriteLine($"Кількість студентів: {students.StudentCount}");
