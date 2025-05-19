@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+cmake-build-debug/
+x64/
+*.csproj
+*.sln
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.txt
